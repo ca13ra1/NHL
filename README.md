@@ -12,7 +12,8 @@ A small NHL Widget for iOS 14. Get live scores from your *favorite NHL teams* ri
 ## Assets
 Image assets are from [nhlstatic.com](www-league.nhlstatic.com). `SVG` formatted to `PNG` added to `Assets.xcassets` folder due to **limitations with `SVG` in `WidgetKit`**.
 
-## TODO 
+## TODO
+- [ ] Fix placeholders (unsure the proper way)
 - [ ] Team logos from URL? **(limitations with SVG in WidgetKit)**
 - [ ] Improve Views
 
